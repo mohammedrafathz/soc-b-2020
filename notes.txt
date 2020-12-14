@@ -1,0 +1,16 @@
+0. Assignments
+
+1. Looping statemnts
+    -> while
+    -> do while
+    -> for loop
+    
+2. exception handling
+
+3. debugger keyword, use strict
+
+4. Expression
+
+5. Operators in Javascript
+
+6. Git & GitHub
